@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.bg {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 60px;
+}
+
+.image {
+  height: 180px;
+  width: 180px;
+}
